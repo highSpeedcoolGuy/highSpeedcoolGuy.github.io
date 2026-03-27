@@ -15,11 +15,18 @@
       <guid>http://localhost:1313/hikes/chasm-lake/</guid>
       <description>&lt;h3 id=&#34;trip-report&#34;&gt;Trip Report&lt;/h3&gt;
 &lt;p&gt;The hike to Chasm Lake next to longs peak.&lt;/p&gt;
-&lt;p&gt;We started the day off and left from golden at around 4 am and arrived at about 6 at the base of the trailhead. There was already a little bit of first light.
-.&lt;/p&gt;
-&lt;h3 id=&#34;photos&#34;&gt;Photos&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Mt Meeker Left Shoulder&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/mt_meeker_shoulder.jpg&#34;&gt;
-&lt;img alt=&#34;Gear laid out&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/gear_layout.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/gear_layout.jpg#center&#34;
+         alt=&#34;A mountain peak with sparse snow over a hazy morning cloud&#34;/&gt; &lt;figcaption&gt;
+            My gear for this hike&lt;p&gt;I may have packed way too much for this.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We started the day off and left from golden at around 4 am and arrived at about 6 at the base of the trailhead. There was already a little bit of first light.&lt;/p&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/mt_meeker_shoulder.jpg#center&#34;
+         alt=&#34;Taken at 14,278 ft during my first winter summit.&#34;/&gt; &lt;figcaption&gt;
+            Mt Meeker&amp;#39;s Left Shoulder&lt;p&gt;Taken at 14,278 ft during my first winter summit.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
