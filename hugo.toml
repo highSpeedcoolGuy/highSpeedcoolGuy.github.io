@@ -8,10 +8,10 @@ theme = 'PaperMod'
     showCodeCopyButtons = true
     mainSections = ["posts", "hikes"]
 [params.homeInfoParams]
-    Title = "Hi there, I'm Jose Abuan 👋"
+    Title = "Jose Abuan"
     Content = """
 Welcome to my personal site! I am a **Computer Science** student at the **Colorado School of Mines**. 
-I specialize in **Robotics (SLAM)** and **Data Science**. When I'm not in the lab, you can find me hiking 14ers or working on my Jeep.
+When I'm not in the lab, you can find me hiking 14ers. 
 """
 
 [[params.socialIcons]]
