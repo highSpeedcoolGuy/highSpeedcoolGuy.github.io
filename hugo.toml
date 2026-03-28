@@ -1,6 +1,5 @@
 baseURL = 'https://highSpeedcoolGuy.github.io/'
 languageCode = 'en-us'
-title = 'Jose Abuan | CS & Robotics'
 theme = 'PaperMod'
 
 [params]
@@ -13,6 +12,7 @@ theme = 'PaperMod'
 Welcome to my personal site! I am a **Computer Science** student at the **Colorado School of Mines**. 
 When I'm not in the lab, you can find me hiking 14ers. 
 """
+
 
 [[params.socialIcons]]
     name = "github"
@@ -31,13 +31,3 @@ When I'm not in the lab, you can find me hiking 14ers.
     name = "email"
     email = "abuanjosel@gmail.com"   
 
-
-[[menu.main]]
-    name = "Work Blog"
-    url = "/posts"
-    weight = 10
-
-[[menu.main]]
-    name = "14er Logs"
-    url = "/hikes"
-    weight = 20
