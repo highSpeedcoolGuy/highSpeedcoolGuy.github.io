@@ -19,7 +19,13 @@ We started the day off and left from golden at around 4 am and arrived at about 
 
 
 
-{{< figure src="/images/mt_meeker_shoulder.jpg" title="Mt Meeker's Left Shoulder" caption="Taken at 14,278 ft during my first winter summit." alt="" align="center" >}}
+{{< figure src="/images/longs_face.jpg" title="Mt Meeker's Left Shoulder" caption="Taken at 14,278 ft during my first winter summit." alt="" align="center" >}}
+
+{{< figure src="/images/mt_meeker_shoulder.jpg" title="My gear for this hike" caption="I may have packed way too much for this." alt="A mountain peak with sparse snow over a hazy morning cloud" align="center" >}}
+
+{{< figure src="/images/chasm_lake_far.jpg" title="My gear for this hike" caption="I may have packed way too much for this." alt="A mountain peak with sparse snow over a hazy morning cloud" align="center" >}}
+
+{{< figure src="/images/longs_peak_trail_below_treeline.jpg" title="My gear for this hike" caption="I may have packed way too much for this." alt="A mountain peak with sparse snow over a hazy morning cloud" align="center" >}}
 
 
 {{<youtube 6sOQFQOIhqw>}}

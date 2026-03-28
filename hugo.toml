@@ -6,6 +6,31 @@ theme = 'PaperMod'
 [params]
     defaultTheme = "dark" # Perfect for the CS aesthetic
     showCodeCopyButtons = true
+    mainSections = ["posts", "hikes"]
+[params.homeInfoParams]
+    Title = "Hi there, I'm Jose Abuan 👋"
+    Content = """
+Welcome to my personal site! I am a **Computer Science** student at the **Colorado School of Mines**. 
+I specialize in **Robotics (SLAM)** and **Data Science**. When I'm not in the lab, you can find me hiking 14ers or working on my Jeep.
+"""
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/highSpeedcoolGuy"
+[[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/jose-abuan" 
+[[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/@mynamehosehimenez"    
+[[params.socialIcons]]
+    name = "discord"
+    url = "https://discordapp.com/users/jose_63032"    
+
+[[params.socialIcons]]
+    name = "email"
+    email = "abuanjosel@gmail.com"   
+
 
 [[menu.main]]
     name = "Work Blog"
