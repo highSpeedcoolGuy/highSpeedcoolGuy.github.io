@@ -12,6 +12,7 @@ theme = 'PaperMod'
 Welcome to my personal site! I am a **Computer Science** student at the **Colorado School of Mines**. 
 When I'm not in the lab, you can find me hiking 14ers. 
 """
+    <img src="/static/images/personal_portrait.JPEG" alt="Jose Abuan" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 20px; border: 2px solid #666;">
 
 
 [[params.socialIcons]]
