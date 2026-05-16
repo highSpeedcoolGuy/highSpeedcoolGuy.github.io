@@ -6,14 +6,18 @@ theme = 'PaperMod'
     defaultTheme = "dark" # Perfect for the CS aesthetic
     showCodeCopyButtons = true
     mainSections = ["posts", "hikes"]
+[markup.goldmark.renderer]
+    unsafe = true
 [params.homeInfoParams]
     Title = "Jose Abuan"
     Content = """
-Welcome to my personal site! I am a **Computer Science** student at the **Colorado School of Mines**. 
-When I'm not in the lab, you can find me hiking 14ers. 
+<div style="display: flex; align-items: flex-start; gap: 20px; text-align: left;">
+  <div style="flex: 1;">
+    Welcome to my personal site! I am a **Computer Science** student at the **Colorado School of Mines**. When I'm not in the lab, you can find me hiking 14ers.
+  </div>
+  <img src="/images/personal_portrait.jpeg" alt="Jose Abuan" style="width: 300px; height: 350px; border-radius: 12px; object-fit: cover; border: 2px solid #666; flex-shrink: 0;">
+</div>
 """
-    <img src="/static/images/personal_portrait.JPEG" alt="Jose Abuan" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 20px; border: 2px solid #666;">
-
 
 [[params.socialIcons]]
     name = "github"
