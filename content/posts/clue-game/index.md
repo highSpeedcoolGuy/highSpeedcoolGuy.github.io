@@ -1,7 +1,7 @@
 ---
 title: 'Clue Game'
 date: '2026-03-27'
-draft: false
+draft: true
 tags: ["Java", "Software Engineering", "Github", "Software Development"]
 categories: ["Projects"]
 showToc: true

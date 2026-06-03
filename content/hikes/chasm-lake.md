@@ -1,7 +1,7 @@
 ---
 title: "Chasm Lake"
 date: 2026-03-24T15:36:44-06:00
-draft: false
+draft: true
 peak: ""
 elevation: ""
 mileage: ""

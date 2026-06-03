@@ -1,7 +1,7 @@
 ---
 title: "Mt Blue Sky"
 date: 2025-06-27T17:18:24-06:00
-draft: false
+draft: true
 peak: ""
 elevation: ""
 mileage: ""
