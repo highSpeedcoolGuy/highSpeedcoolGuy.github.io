@@ -38,3 +38,6 @@ theme = 'PaperMod'
     name = "email"
     email = "abuanjosel@gmail.com"   
 
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
