@@ -6,8 +6,18 @@
     <description>Recent content in Hikes on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 15:36:44 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 10:05:16 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/hikes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solo Trips are Fun, you should do it more...</title>
+      <link>http://localhost:1313/hikes/decalibross/</link>
+      <pubDate>Wed, 24 Jun 2026 10:05:16 -0600</pubDate>
+      <guid>http://localhost:1313/hikes/decalibross/</guid>
+      <description>&lt;h3 id=&#34;trip-report&#34;&gt;Trip Report&lt;/h3&gt;
+&lt;p&gt;(How was the trail today?)&lt;/p&gt;
+&lt;h3 id=&#34;photos&#34;&gt;Photos&lt;/h3&gt;
+&lt;p&gt;(Insert summit photo here)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Chasm Lake</title>
       <link>http://localhost:1313/hikes/chasm-lake/</link>
@@ -18,7 +28,7 @@
 &lt;figure class=&#34;align-center &#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/gear_layout.jpg#center&#34;
          alt=&#34;A mountain peak with sparse snow over a hazy morning cloud&#34;/&gt; &lt;figcaption&gt;
-            My gear for this hike&lt;p&gt;I may have packed way too much for this.&lt;/p&gt;
+            My gear for this hike
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -29,13 +39,11 @@
             Mt Meeker&amp;#39;s Left Shoulder&lt;p&gt;Taken at 14,278 ft during my first winter summit.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mt Blue Sky</title>
+      <title>My Very First 14er</title>
       <link>http://localhost:1313/hikes/mt-blue-sky/</link>
       <pubDate>Fri, 27 Jun 2025 17:18:24 -0600</pubDate>
       <guid>http://localhost:1313/hikes/mt-blue-sky/</guid>
-      <description>&lt;h3 id=&#34;trip-report&#34;&gt;Trip Report&lt;/h3&gt;
-&lt;p&gt;This is a very wonderful July Trip&lt;/p&gt;
-&lt;h3 id=&#34;photos&#34;&gt;Photos&lt;/h3&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>

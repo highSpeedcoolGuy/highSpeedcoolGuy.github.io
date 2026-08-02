@@ -6,20 +6,39 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 18:34:04 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 21:38:01 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clue Game</title>
-      <link>http://localhost:1313/posts/clue-game/</link>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/clue-game/</guid>
-      <description>&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;</description>
+      <title>Why you need to &#34;be a spy&#34;</title>
+      <link>http://localhost:1313/posts/be-a-spy/</link>
+      <pubDate>Sat, 01 Aug 2026 21:38:01 -0600</pubDate>
+      <guid>http://localhost:1313/posts/be-a-spy/</guid>
+      <description>&lt;p&gt;Listen to those who share the opposite of your beliefs. To quote Seneca, &amp;ldquo;Read like a spy in the enemy
+s camp&amp;rdquo;. It&amp;rsquo;s time you start hearing it more from other people&amp;rsquo;s perspective. We all live and see life in different lenses. You can learn more about the subject you&amp;rsquo;re passionate about by listening and reading about those you disagree with. Nowadays, we fall into a trap of only seeing the world one-sidedly. Especially with the way the modern world works. Social media and a lot of other mainstream media promote this way of consuming content. The algorithm is built to feed your own desires, reaffirming your beliefs even if it&amp;rsquo;s objectively or subjectively wrong. Making you feel more right about yourself. Another specific example, is through the story of Oddysey (I know, very timely) where the siren plays the &amp;ldquo;things you most want&amp;rdquo;. The Sirens sing a promise of the things that each individual wants, customized to their own desires. So therefore, keep an open mind and an open ear to hear these things from others, it is one of the best ways to learn and grow your wisdom.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Denver Crime Data Analysis</title>
-      <link>http://localhost:1313/posts/denver-crime-data-analysis/</link>
-      <pubDate>Fri, 27 Mar 2026 18:34:04 -0600</pubDate>
-      <guid>http://localhost:1313/posts/denver-crime-data-analysis/</guid>
+      <title>Childhood_generations</title>
+      <link>http://localhost:1313/posts/childhood-generations/</link>
+      <pubDate>Sat, 18 Jul 2026 09:02:45 -0600</pubDate>
+      <guid>http://localhost:1313/posts/childhood-generations/</guid>
+      <description>&lt;h1 id=&#34;why-should-we-keep-going-outside&#34;&gt;WHY SHOULD WE KEEP GOING OUTSIDE&lt;/h1&gt;
+&lt;p&gt;We were recently having breakfast as a family when it suddenly crossed my mind how different it was in the 80s. I then asked my father about his childhood. &amp;ldquo;So why is it that people say that the 80s or 90s was the best time to be a child?&amp;rdquo; I asked. He then answered immediately with &amp;ldquo;because that was the last time kids were able to go outside&amp;rdquo;. Followed by his story of a childhood play friend. We laughed at the fact that the kid was the only one that had Atari, and that he was asking other kids for money as a sort of rent-to-play. Lines of kids started lining up to get a chance to play. He clearly understood the concept of supply and demand as a young child.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solo Trips are Fun, you should do it more...</title>
+      <link>http://localhost:1313/hikes/decalibross/</link>
+      <pubDate>Wed, 24 Jun 2026 10:05:16 -0600</pubDate>
+      <guid>http://localhost:1313/hikes/decalibross/</guid>
+      <description>&lt;h3 id=&#34;trip-report&#34;&gt;Trip Report&lt;/h3&gt;
+&lt;p&gt;(How was the trail today?)&lt;/p&gt;
+&lt;h3 id=&#34;photos&#34;&gt;Photos&lt;/h3&gt;
+&lt;p&gt;(Insert summit photo here)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Summer 2026</title>
+      <link>http://localhost:1313/posts/summer-2026/</link>
+      <pubDate>Wed, 24 Jun 2026 09:56:14 -0600</pubDate>
+      <guid>http://localhost:1313/posts/summer-2026/</guid>
       <description></description>
     </item>
     <item>
@@ -32,7 +51,7 @@
 &lt;figure class=&#34;align-center &#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/gear_layout.jpg#center&#34;
          alt=&#34;A mountain peak with sparse snow over a hazy morning cloud&#34;/&gt; &lt;figcaption&gt;
-            My gear for this hike&lt;p&gt;I may have packed way too much for this.&lt;/p&gt;
+            My gear for this hike
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -43,13 +62,11 @@
             Mt Meeker&amp;#39;s Left Shoulder&lt;p&gt;Taken at 14,278 ft during my first winter summit.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mt Blue Sky</title>
+      <title>My Very First 14er</title>
       <link>http://localhost:1313/hikes/mt-blue-sky/</link>
       <pubDate>Fri, 27 Jun 2025 17:18:24 -0600</pubDate>
       <guid>http://localhost:1313/hikes/mt-blue-sky/</guid>
-      <description>&lt;h3 id=&#34;trip-report&#34;&gt;Trip Report&lt;/h3&gt;
-&lt;p&gt;This is a very wonderful July Trip&lt;/p&gt;
-&lt;h3 id=&#34;photos&#34;&gt;Photos&lt;/h3&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>

@@ -12,7 +12,7 @@ gear_notes: []
 ### Trip Report
 The hike to Chasm Lake next to longs peak.
 
-{{< figure src="/images/gear_layout.jpg" title="My gear for this hike" caption="I may have packed way too much for this." alt="A mountain peak with sparse snow over a hazy morning cloud" align="center" >}}
+{{< figure src="/images/gear_layout.jpg" title="My gear for this hike" caption="" alt="A mountain peak with sparse snow over a hazy morning cloud" align="center" >}}
 
 
 We started the day off and left from golden at around 4 am and arrived at about 6 at the base of the trailhead. There was already a little bit of first light. 
