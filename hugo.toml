@@ -23,7 +23,7 @@ theme = 'PaperMod'
 
 [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/highSpeedcoolGuy"
+    url = "https://github.com/jose-abuan"
 [[params.socialIcons]]
     name = "linkedin"
     url = "https://linkedin.com/in/jose-abuan" 
@@ -38,7 +38,7 @@ theme = 'PaperMod'
     url = "https://gitlab.com/highSpeedcoolGuy"
 [[params.socialIcons]]
     name = "email"
-    email = "abuanjosel@gmail.com"   
+    email = "mailto:abuanjosel@gmail.com"   
 
 [outputs]
   home = ["HTML", "RSS"]
