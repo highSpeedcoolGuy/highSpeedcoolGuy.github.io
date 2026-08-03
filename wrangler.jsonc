@@ -1,14 +1,9 @@
+// wrangler.jsonc
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "high-peedcool-uy-github-io",
-  "compatibility_date": "2026-08-03",
-  "observability": {
-    "enabled": true
-  },
+  "name": "highspeedcoolguy-github-io",
+  "compatibility_date": "2026-08-02",
   "assets": {
-    "directory": "public"
-  },
-  "compatibility_flags": [
-    "nodejs_compat"
-  ]
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  }
 }
