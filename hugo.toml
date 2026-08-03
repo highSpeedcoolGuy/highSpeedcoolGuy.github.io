@@ -39,7 +39,6 @@ theme = 'PaperMod'
 [[params.socialIcons]]
     name = "email"
     email = "mailto:abuanjosel@gmail.com"   
-
-[outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
+[[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
