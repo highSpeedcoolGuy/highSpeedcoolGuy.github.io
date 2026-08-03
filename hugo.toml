@@ -20,6 +20,7 @@ theme = 'PaperMod'
   <img src="/images/personal_portrait.jpeg" alt="Jose Abuan" style="width: 300px; height: 350px; border-radius: 12px; object-fit: cover; border: 2px solid #666; flex-shrink: 0;">
 </div>
 """
+[Resume (PDF)](/files/resume.pdf)
 
 [[params.socialIcons]]
     name = "github"
