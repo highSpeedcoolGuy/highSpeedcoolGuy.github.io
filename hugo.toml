@@ -13,7 +13,9 @@ theme = 'PaperMod'
     Content = """
 <div style="display: flex; align-items: flex-start; gap: 20px; text-align: left;">
   <div style="flex: 1;">
-    Hello World!
+    Hello World! I'm Jose, I'm passionate at solving problems (and creating new ones). Nowadays, I enjoy looking
+    at data and coming up with questions and solutions. When I'm not doing those, you can find me enjoying the outdoors
+    or working in the gym.
   </div>
   <img src="/images/personal_portrait.jpeg" alt="Jose Abuan" style="width: 300px; height: 350px; border-radius: 12px; object-fit: cover; border: 2px solid #666; flex-shrink: 0;">
 </div>
